@@ -7,7 +7,7 @@
         <!-- Front -->        
         <ul class='hardcover_front'>
           <li>
-            <img src="https://s.cdpn.io/13060/book2.jpg" alt="" width="100%" height="100%">
+            <img src="https://curriculosvencedores.com.br/wp-content/uploads/2020/09/como-fazer-um-bom-perfil-no-linkedin-624x415.jpg" alt="" width="100%" height="100%">
             <span class="ribbon new">NEW</span>
           </li>
           <li></li>
@@ -45,7 +45,7 @@
         <!-- Front -->        
         <ul class='hardcover_front'>
           <li>
-            <img src="https://s.cdpn.io/13060/book3.jpg" alt="" width="100%" height="100%">
+            <img src="https://d33wubrfki0l68.cloudfront.net/3238b11aab97c4006525b4b0a6fde91ad017c8b0/d0eb5/images/posts/github.gif" alt="" width="100%" height="100%">
           </li>
           <li></li>
         </ul>        
