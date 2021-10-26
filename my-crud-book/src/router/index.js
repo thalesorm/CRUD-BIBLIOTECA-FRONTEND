@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import Hello from '@/components/Hello'
 import Book from '@/components/Book'
 import AboutMe from '@/components/AboutMe'
-
+import Login from '@/components/Login'
 Vue.use(Router)
 
 export default new Router({
@@ -22,6 +22,11 @@ export default new Router({
       path: '/aboutme',
       name: 'AboutMe',
       component: AboutMe
+    },
+    {
+      path: '/login',
+      name: 'Login',
+      component: Login
     }
   ]
 })
